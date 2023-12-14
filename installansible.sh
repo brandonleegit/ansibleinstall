@@ -1,3 +1,4 @@
+sudo apt-get update
 sudo apt-get install gcc python-dev libkrb5-dev -y
 sudo apt-get install python3-pip -y
 sudo pip3 install --upgrade pip
